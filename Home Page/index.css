@@ -1,0 +1,22 @@
+.item_item
+{
+  width: 180px;
+  height: 225px;
+  background-color: gray;
+  margin-right: 12px; 
+  margin-left: 12px;
+}
+
+.title_top
+{
+  display: flex;
+  justify-content: center;
+  margin: 0px;
+}
+
+.item_div 
+{
+  display: flex;
+  flex-flow: row wrap;
+ 
+}
